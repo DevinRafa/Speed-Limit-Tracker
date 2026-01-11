@@ -9,3 +9,5 @@ off course my source code it's may just to short or have must been any optimizat
 or maybe out off the sub id statment.
 
 next update i will add much more in sub if statment. ASAP!
+
+in this things you need to input your speed; and systems will detected and organized your speed
